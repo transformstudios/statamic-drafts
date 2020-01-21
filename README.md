@@ -2,7 +2,7 @@ Drafts allows you to share draft entries and/or pages with collaborators without
 
 For example, you can create a draft `About Us` page and give folks a URL to view that draft content.
 
-(insert screenshot)
+![screenshot](draft-url.png "Drafts Screenshot")
 
 Please note:
 * this only appears if content is **not** published (i.e. a draft)
