@@ -1,3 +1,6 @@
 name: Drafts
-version: '1.0'
-developer: 'Erin Dalzell'
+version: "1.0"
+developer: "Transform Studios"
+description: "Allows you to share draft content with external collaborators"
+url: https://statamic.com/marketplace/addons/drafts
+developer_url: https://transformstudios.com
