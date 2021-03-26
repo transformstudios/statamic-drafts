@@ -1,3 +1,5 @@
+**NOTE**: This addon has been ported to v3 & renamed to [Review](https://statamic.com/addons/transform/review)
+
 Drafts allows you to share draft entries and/or pages with collaborators without having to create a User for them.
 
 For example, you can create a draft `About Us` page and give folks a URL to view that draft content.
